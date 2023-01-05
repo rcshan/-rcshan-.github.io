@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FM.Pinky</title>
+    <link>https://example.org/</link>
+    <description>Recent content on FM.Pinky</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022年度歌单</title>
+      <link>https://example.org/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work2/</guid>
+      <description>&lt;p&gt;2022年s收听最多的十首歌，代表了s上一年度的音乐品味，大多数是说唱歌曲，每首都超级绝！赶快点击图片试听音乐吧！&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jazz Hiphop</title>
+      <link>https://example.org/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work3/</guid>
+      <description>&lt;p&gt;Jazz-Hiphop之所以和Jazz打上关系，最主要的原因是其加入了味道浓厚的爵士乐采样，以及对古典与萨克斯风等乐器的风采，既保留了爵士乐的浪漫优雅，又为Jazz加上了不一样的血液。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>《姚中二》</title>
+      <link>https://example.org/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work4/</guid>
+      <description>&lt;p&gt;热狗说，《姚中二》是他出道以来最满意的一张专辑，那就是好，没有在胡扯。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>80&#39;Sing | 复古现在进行时</title>
+      <link>https://example.org/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work7/</guid>
+      <description>&lt;p&gt;穿越到上世纪 跟着节奏抖起腿来~&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>耳熟能详的戏曲名段</title>
+      <link>https://example.org/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work8/</guid>
+      <description>&lt;p&gt;京剧、昆曲、苏州评弹、黄梅戏、越剧、粤剧、南音、花鼓戏、豫剧名段。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Good Night Babe</title>
+      <link>https://example.org/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work6/</guid>
+      <description>&lt;p&gt;今夜 我们的目标是抵达宇宙边那颗沉睡的星星&lt;/p&gt;
+&lt;p&gt;做颗沉睡的星星&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>伸个懒腰(≧▽≦)</title>
+      <link>https://example.org/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work10/</guid>
+      <description>&lt;p&gt;生活不只有工作和学习，还有睡觉、发呆、摸鱼&amp;hellip;&amp;hellip;伸个懒腰(≧▽≦)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>生活也需要节奏，开车必备歌单</title>
+      <link>https://example.org/portfolio/work11/</link>
+      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work11/</guid>
+      <description>&lt;p&gt;“在一起不容易，缺点可以改，性格可以磨合，但是错过了就真的没有了”&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
